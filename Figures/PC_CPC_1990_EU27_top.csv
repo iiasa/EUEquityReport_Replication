@@ -1,0 +1,21 @@
+"","r11eu27","indicator","rcb","pop","allocation","pf","equalcapita","indicatorfull","indicatorshort","principle","emiss_19902019co2",".group"
+"1","EU27","EPC 1990",120.496282181503,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",104.876650815826,1
+"2","EU27","CO2 1850-1989",13.8096362342664,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,3
+"3","EU27","CPC CO2 1850-1989",12.786439937993,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,4
+"4","EU27","GDP per capita 1990",12.4800571067523,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,5
+"5","EU27","Capital stock per capita 1990",8.47986213262261,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,6
+"6","EU27","EPC 1990",120.496282181503,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",104.876650815826,1
+"7","EU27","CO2 1850-1989",44.2602018858122,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,3
+"8","EU27","CPC CO2 1850-1989",44.3699780765647,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,4
+"9","EU27","GDP per capita 1990",42.8214391194929,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,5
+"10","EU27","Capital stock per capita 1990",36.0423003693262,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,6
+"11","EU27","ECPC 1990-2050",90.7308452801402,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/x",3.3321091486257,"ECPC 1990-2050","E3","Equality",104.876650815826,2
+"12","EU27","CO2 1850-1989",9.24586810478224,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/x",3.3321091486257,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,3
+"13","EU27","CPC CO2 1850-1989",8.868042245218,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/x",3.3321091486257,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,4
+"14","EU27","GDP per capita 1990",9.29514598259712,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/x",3.3321091486257,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,5
+"15","EU27","Capital stock per capita 1990",6.06965328902247,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/x",3.3321091486257,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,6
+"16","EU27","ECPC 1990-2050",90.7308452801402,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/sqrt(x)",3.3321091486257,"ECPC 1990-2050","E3","Equality",104.876650815826,2
+"17","EU27","CO2 1850-1989",31.0440945318227,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/sqrt(x)",3.3321091486257,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,3
+"18","EU27","CPC CO2 1850-1989",31.7140973203464,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/sqrt(x)",3.3321091486257,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,4
+"19","EU27","GDP per capita 1990",31.6701371605781,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/sqrt(x)",3.3321091486257,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,5
+"20","EU27","Capital stock per capita 1990",26.1373817395696,27229253674.8268,"Allocated cumulative per capita 1990-2050","1/sqrt(x)",3.3321091486257,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,6

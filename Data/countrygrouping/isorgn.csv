@@ -157,7 +157,7 @@ NGA,AFR,Sub-Saharan Africa,AFR,Sub-Saharan Africa,
 NIC,LAM,Latin America and The Caribbean,LAM,Latin America and The Caribbean,
 NIU,PAS,Other Pacific Asia,PAS,Other Pacific Asia,
 NLD,WEU,Western Europe,EU27,EU27,EU27
-NOR,WEU,Western Europe,EU27,EU27,EU27
+NOR,WEU,Western Europe,REU,Rest of Europe,REU
 NPL,SAS,South Asia,SAS,South Asia,
 NRU,PAS,Other Pacific Asia,PAS,Other Pacific Asia,
 NZL,PAO,Pacific OECD,PAO,Pacific OECD,NZL
@@ -170,7 +170,7 @@ PER,LAM,Latin America and The Caribbean,LAM,Latin America and The Caribbean,
 PHL,PAS,Other Pacific Asia,PAS,Other Pacific Asia,
 PLW,PAS,Other Pacific Asia,PAS,Other Pacific Asia,
 PNG,PAS,Other Pacific Asia,PAS,Other Pacific Asia,
-POL,EEU,Central and Eastern Europe,REU,Rest of Europe,POL
+POL,EEU,Central and Eastern Europe,EU27,EU27,EU27
 PRI,NAM,North America,NAM,North America,
 PRK,CPA,Centrally Planned Asia,CPA,Centrally Planned Asia,
 PRT,WEU,Western Europe,EU27,EU27,EU27

@@ -634,7 +634,7 @@ emiss_19902050co2_eu27 %>%
               mutate(principle = 
                        factor(principle, levels = unique(indicatornames$principle)))%>% 
               filter(!is.na(principle))) +
-  scale_x_continuous(breaks = scales::pretty_breaks(n = 10), limits = c(0,140)) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10), limits = c(0,150)) +
   facet_wrap(~principle) +
   theme_bw() +
   theme(legend.position = "bottom") +
@@ -734,7 +734,7 @@ emiss_20152050co2_eu27 %>%
               mutate(principle = factor(principle, 
                                         levels = unique(indicatornames$principle)))%>% 
               filter(!is.na(principle))) +
-  scale_x_continuous(breaks = scales::pretty_breaks(n = 10), limits = c(0,55)) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10), limits = c(0,57)) +
   facet_wrap(~principle) +
   theme_bw() +
   theme(legend.position = "bottom") +
@@ -772,7 +772,7 @@ emiss_20152050co2_eu27 %>%
               mutate(principle = factor(principle, 
                                         levels = unique(indicatornames$principle)))%>% 
               filter(!is.na(principle))) +
-  scale_x_continuous(breaks = scales::pretty_breaks(n = 10),limits = c(0,55)) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10),limits = c(0,57)) +
   facet_wrap(~principle) +
   theme_bw() +
   theme(legend.position = "bottom") +

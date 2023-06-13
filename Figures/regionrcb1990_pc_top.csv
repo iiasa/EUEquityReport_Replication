@@ -1,0 +1,111 @@
+"","r11eu27","indicator","rcb","pop","allocation","pf","equalcapita","indicatorfull","indicatorshort","principle","emiss_19902019co2",".group"
+"1","EU27","EPC 1990",120.496282181503,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",104.876650815826,1
+"2","REU","EPC 1990",40.7447265932663,141523659,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",29.0256586052081,1
+"3","CPA","EPC 1990",363.515095455395,1262641591,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",193.095236643722,1
+"4","FSU","EPC 1990",81.147287231972,281858831,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",75.9984372695356,1
+"5","LAM","EPC 1990",126.457736827061,439241176,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",44.5465502066594,1
+"6","MEA","EPC 1990",81.0677685489897,281582629,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",55.3999936267961,1
+"7","NAM","EPC 1990",80.4768278065383,279530042,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",184.419998366784,1
+"8","PAS","EPC 1990",124.322064724465,431823084,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",48.8766516696211,1
+"9","PAO","EPC 1990",41.4955856770913,144131710,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",48.8581923645594,1
+"10","SAS","EPC 1990",328.5844642481,1141312743,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",47.3771618529576,1
+"11","AFR","EPC 1990",141.692160705618,492156770,"Allocated per capita in 1990","1/x",287.900460468354,"EPC 1990","E1","Equality",19.0057558484942,1
+"12","EU27","CO2 1850-1989",13.8096362342664,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,2
+"13","REU","CO2 1850-1989",12.8452267807343,141523659,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",29.0256586052081,2
+"14","CPA","CO2 1850-1989",167.159780808061,1262641591,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",193.095236643722,2
+"15","FSU","CO2 1850-1989",16.6583530563642,281858831,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",75.9984372695356,2
+"16","LAM","CO2 1850-1989",106.925087230418,439241176,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",44.5465502066594,2
+"17","MEA","CO2 1850-1989",105.062000133496,281582629,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",55.3999936267961,2
+"18","NAM","CO2 1850-1989",6.44374251132169,279530042,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",184.419998366784,2
+"19","PAS","CO2 1850-1989",234.967509882462,431823084,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",48.8766516696211,2
+"20","PAO","CO2 1850-1989",24.2092840233777,144131710,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",48.8581923645594,2
+"21","SAS","CO2 1850-1989",584.409706433308,1141312743,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",47.3771618529576,2
+"22","AFR","CO2 1850-1989",257.50967290619,492156770,"Allocated per capita in 1990","1/x",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",19.0057558484942,2
+"23","EU27","CPC CO2 1850-1989",12.786439937993,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,3
+"24","REU","CPC CO2 1850-1989",3.29513317698375,141523659,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",29.0256586052081,3
+"25","CPA","CPC CO2 1850-1989",306.961101641668,1262641591,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",193.095236643722,3
+"26","FSU","CPC CO2 1850-1989",7.81808968885557,281858831,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",75.9984372695356,3
+"27","LAM","CPC CO2 1850-1989",45.6678400712031,439241176,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",44.5465502066594,3
+"28","MEA","CPC CO2 1850-1989",28.19436275185,281582629,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",55.3999936267961,3
+"29","NAM","CPC CO2 1850-1989",2.6058488147886,279530042,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",184.419998366784,3
+"30","PAS","CPC CO2 1850-1989",105.83415257804,431823084,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",48.8766516696211,3
+"31","PAO","CPC CO2 1850-1989",5.56192048708322,144131710,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",48.8581923645594,3
+"32","SAS","CPC CO2 1850-1989",874.470538818938,1141312743,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",47.3771618529576,3
+"33","AFR","CPC CO2 1850-1989",136.804572032596,492156770,"Allocated per capita in 1990","1/x",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",19.0057558484942,3
+"34","EU27","GDP per capita 1990",12.4800571067523,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,4
+"35","REU","GDP per capita 1990",5.19389923207087,141523659,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",29.0256586052081,4
+"36","CPA","GDP per capita 1990",700.004708732074,1262641591,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",193.095236643722,4
+"37","FSU","GDP per capita 1990",14.9346073295161,281858831,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",75.9984372695356,4
+"38","LAM","GDP per capita 1990",36.8835353104882,439241176,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",44.5465502066594,4
+"39","MEA","GDP per capita 1990",24.3904216496536,281582629,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",55.3999936267961,4
+"40","NAM","GDP per capita 1990",6.16126160139917,279530042,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",184.419998366784,4
+"41","PAS","GDP per capita 1990",64.9797207535606,431823084,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",48.8766516696211,4
+"42","PAO","GDP per capita 1990",3.92682934870407,144131710,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",48.8581923645594,4
+"43","SAS","GDP per capita 1990",514.047339215773,1141312743,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",47.3771618529576,4
+"44","AFR","GDP per capita 1990",146.997619720009,492156770,"Allocated per capita in 1990","1/x",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",19.0057558484942,4
+"45","EU27","Capital stock per capita 1990",8.47986213262261,418534524,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,5
+"46","REU","Capital stock per capita 1990",4.36477560042428,141523659,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",29.0256586052081,5
+"47","CPA","Capital stock per capita 1990",499.418178945443,1262641591,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",193.095236643722,5
+"48","FSU","Capital stock per capita 1990",7.47504138798181,281858831,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",75.9984372695356,5
+"49","LAM","Capital stock per capita 1990",36.1510544593671,439241176,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",44.5465502066594,5
+"50","MEA","Capital stock per capita 1990",22.3598892730845,281582629,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",55.3999936267961,5
+"51","NAM","Capital stock per capita 1990",3.54681305827089,279530042,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",184.419998366784,5
+"52","PAS","Capital stock per capita 1990",67.3232090280442,431823084,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",48.8766516696211,5
+"53","PAO","Capital stock per capita 1990",2.35613709736894,144131710,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",48.8581923645594,5
+"54","SAS","Capital stock per capita 1990",744.164319034058,1141312743,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",47.3771618529576,5
+"55","AFR","Capital stock per capita 1990",134.360719983334,492156770,"Allocated per capita in 1990","1/x",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",19.0057558484942,5
+"56","EU27","EPC 1990",120.496282181503,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",104.876650815826,1
+"57","REU","EPC 1990",40.7447265932663,141523659,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",29.0256586052081,1
+"58","CPA","EPC 1990",363.515095455395,1262641591,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",193.095236643722,1
+"59","FSU","EPC 1990",81.147287231972,281858831,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",75.9984372695356,1
+"60","LAM","EPC 1990",126.457736827061,439241176,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",44.5465502066594,1
+"61","MEA","EPC 1990",81.0677685489897,281582629,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",55.3999936267961,1
+"62","NAM","EPC 1990",80.4768278065383,279530042,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",184.419998366784,1
+"63","PAS","EPC 1990",124.322064724465,431823084,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",48.8766516696211,1
+"64","PAO","EPC 1990",41.4955856770913,144131710,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",48.8581923645594,1
+"65","SAS","EPC 1990",328.5844642481,1141312743,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",47.3771618529576,1
+"66","AFR","EPC 1990",141.692160705618,492156770,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"EPC 1990","E1","Equality",19.0057558484942,1
+"67","EU27","CO2 1850-1989",44.2602018858122,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",104.876650815826,2
+"68","REU","CO2 1850-1989",24.8223011070395,141523659,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",29.0256586052081,2
+"69","CPA","CO2 1850-1989",267.462296426311,1262641591,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",193.095236643722,2
+"70","FSU","CO2 1850-1989",39.8922453642211,281858831,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",75.9984372695356,2
+"71","LAM","CO2 1850-1989",126.16763336253,439241176,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",44.5465502066594,2
+"72","MEA","CO2 1850-1989",100.134190026378,281582629,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",55.3999936267961,2
+"73","NAM","CO2 1850-1989",24.7081347458917,279530042,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",184.419998366784,2
+"74","PAS","CO2 1850-1989",185.44428840891,431823084,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",48.8766516696211,2
+"75","PAO","CO2 1850-1989",34.3896194220228,144131710,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",48.8581923645594,2
+"76","SAS","CO2 1850-1989",475.46403389851,1141312743,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",47.3771618529576,2
+"77","AFR","CO2 1850-1989",207.255055352374,492156770,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CO2 1850-1989","R1","Polluter Pays",19.0057558484942,2
+"78","EU27","CPC CO2 1850-1989",44.3699780765647,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",104.876650815826,3
+"79","REU","CPC CO2 1850-1989",13.0978423524129,141523659,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",29.0256586052081,3
+"80","CPA","CPC CO2 1850-1989",377.598679212963,1262641591,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",193.095236643722,3
+"81","FSU","CPC CO2 1850-1989",28.4717981509065,281858831,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",75.9984372695356,3
+"82","LAM","CPC CO2 1850-1989",85.9024414757377,439241176,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",44.5465502066594,3
+"83","MEA","CPC CO2 1850-1989",54.0421750681368,281582629,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",55.3999936267961,3
+"84","NAM","CPC CO2 1850-1989",16.3695824350026,279530042,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",184.419998366784,3
+"85","PAS","CPC CO2 1850-1989",129.66256077799,431823084,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",48.8766516696211,3
+"86","PAO","CPC CO2 1850-1989",17.1727918658496,144131710,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",48.8581923645594,3
+"87","SAS","CPC CO2 1850-1989",605.931699254496,1141312743,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",47.3771618529576,3
+"88","AFR","CPC CO2 1850-1989",157.380451329941,492156770,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"CPC CO2 1850-1989","R8","Polluter Pays",19.0057558484942,3
+"89","EU27","GDP per capita 1990",42.8214391194929,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",104.876650815826,4
+"90","REU","GDP per capita 1990",16.0638119891317,141523659,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",29.0256586052081,4
+"91","CPA","GDP per capita 1990",557.029062369491,1262641591,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",193.095236643722,4
+"92","FSU","GDP per capita 1990",38.4414761219361,281858831,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",75.9984372695356,4
+"93","LAM","GDP per capita 1990",75.4145462283794,439241176,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",44.5465502066594,4
+"94","MEA","GDP per capita 1990",49.1020825787476,281582629,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",55.3999936267961,4
+"95","NAM","GDP per capita 1990",24.588746969417,279530042,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",184.419998366784,4
+"96","PAS","GDP per capita 1990",99.2496939471047,431823084,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",48.8766516696211,4
+"97","PAO","GDP per capita 1990",14.0957475224534,144131710,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",48.8581923645594,4
+"98","SAS","GDP per capita 1990",453.827929166841,1141312743,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",47.3771618529576,4
+"99","AFR","GDP per capita 1990",159.365463987005,492156770,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"GDP per capita 1990","C1","Ability to Pay",19.0057558484942,4
+"100","EU27","Capital stock per capita 1990",36.0423003693262,418534524,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",104.876650815826,5
+"101","REU","Capital stock per capita 1990",15.0365411345806,141523659,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",29.0256586052081,5
+"102","CPA","Capital stock per capita 1990",480.423984443159,1262641591,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",193.095236643722,5
+"103","FSU","Capital stock per capita 1990",27.7699492471548,281858831,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",75.9984372695356,5
+"104","LAM","Capital stock per capita 1990",76.2367667892673,439241176,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",44.5465502066594,5
+"105","MEA","Capital stock per capita 1990",48.0054136258961,281582629,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",55.3999936267961,5
+"106","NAM","Capital stock per capita 1990",19.0495997987049,279530042,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",184.419998366784,5
+"107","PAS","Capital stock per capita 1990",103.154408673401,431823084,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",48.8766516696211,5
+"108","PAO","Capital stock per capita 1990",11.1489125841444,144131710,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",48.8581923645594,5
+"109","SAS","Capital stock per capita 1990",557.556927981277,1141312743,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",47.3771618529576,5
+"110","AFR","Capital stock per capita 1990",155.575195353089,492156770,"Allocated per capita in 1990","1/sqrt(x)",287.900460468354,"Capital stock per capita 1990","C3","Ability to Pay",19.0057558484942,5
